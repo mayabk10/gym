@@ -3,7 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         // 1. Gym with room for 5 members
-        System.out.println("dhfhfgh");
         Gym gym = new Gym("Power Gym", 5);
 
         // 2. Four different subscriptions
